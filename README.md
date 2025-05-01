@@ -52,4 +52,4 @@ result <- wintime("wtr", Time, Delta, trt)
 print(result)
 ```
 
-For a more detailed walkthrough, open the wintime_vignette file.
+For a more detailed walkthrough, open the wintime_vignette file. For complete documentation, open the wintime.pdf file.
